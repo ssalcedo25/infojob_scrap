@@ -1,0 +1,8 @@
+# Para instalar todo, ejecuta en tu terminal:
+# pip install -r requirements.txt
+# Y luego instala los navegadores para Playwright:
+# playwright install
+
+requests
+beautifulsoup4
+playwright
